@@ -1,6 +1,7 @@
-token=NDk4OTUwMDc1MTA0NDkzNTY4.Dp4cKA.h6TpRiwyaAgGhpV4ucs5fUrRgtE
-owner=457174878530043907
-prefix=rf
-game=order.done
+token=NTAwNzc2NzYxODg2MjQ0ODY0.DqPwbA.8zKiZ_NG9a1SqUTWF7rRILTcCDk
+owner=348530664108195851
+prefix=B
+status=IDLE
+game=.Boody, Muَsic 🎶
 stayinchannel=true
 songinstatus=false
